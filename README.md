@@ -9,5 +9,5 @@ This repository contains the dataset and all code related to the MSc project.
 
 
 The finetuned models for both subtask A and subtask B are available publicly at the Hugging Face model hub and the results can easily be reproduced using them.
-https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4a
-https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4b
+Fine-tuned model for Subtask A: https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4a
+Fine-tuned model for Subtask B: https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4b
