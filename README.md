@@ -8,6 +8,6 @@ This repository contains the dataset and all code related to the MSc project.
 - The taskb-evaluate-notebook loads the fine-tuned model for subtask B from hugging face and reproduces the results mentioned in the report.
 
 
-The finetuned models for both subtask A and subtask B are available publicly at the Hugging Face model hub and the results can easily be reproduced using them.
-Fine-tuned model for Subtask A: https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4a
+The finetuned models for both subtask A and subtask B are available publicly at the Hugging Face model hub and the results can easily be reproduced using them.    
+Fine-tuned model for Subtask A: https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4a     
 Fine-tuned model for Subtask B: https://huggingface.co/JazibEijaz/bert-base-uncased-finetuned-semeval2020-task4b
